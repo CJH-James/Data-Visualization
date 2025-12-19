@@ -1,0 +1,10 @@
+# This is the CODEOWNERS file for the repository.
+# These rules ensure that CJH-James is automatically assigned as a reviewer 
+# for changes made to the codebase.
+
+# Global owners: CJH-James will be requested for review on all changes.
+* @CJH-James
+
+# Optional: Specific folder ownership (examples)
+# /docs/  @CJH-James
+# /src/   @CJH-James
