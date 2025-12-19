@@ -1,5 +1,5 @@
 def main():
-    print("Hello from data-visualiztion!")
+    print("Hello from Data-Visualization!")
 
 
 if __name__ == "__main__":

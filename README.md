@@ -1,11 +1,10 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-- [Data-Visualiztion](#data-visualiztion)
+# Content
+- [Data-Visualization](#Data-Visualization)
 - [Road map](#road-map)
 - [Development](#development)
 
 
-# Data-Visualiztion
+# Data-Visualization
 For the big data more and more popular in these years, I want to do build an App to realize it
 
 <br>
