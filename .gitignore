@@ -1,8 +1,8 @@
-# The input/output folder
+# [Ignore] The input/output folder
 Input/*
 Output/*
 
-# Python-generated files
+# [Ignore] Python-generated files
 __pycache__/
 *.py[oc]
 build/
@@ -10,7 +10,7 @@ dist/
 wheels/
 *.egg-info
 
-# Virtual environments
+# [Ignore] Python Virtual environments
 .venv
 
 # [Ignore] doxygen files
