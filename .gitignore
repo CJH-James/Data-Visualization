@@ -13,6 +13,9 @@ wheels/
 
 # [Ignore] Python Virtual environments
 .venv
+# [Ignore] uv lock files
+uv.lock
+uv.lock.*
 
 # [Ignore] doxygen files
 doc/html/*
