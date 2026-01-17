@@ -1,6 +1,7 @@
-# [Ignore] The input/output folder
-Input/*
-Output/*
+# [Ignore] third_party build files
+third_party/*
+!third_party/*.md
+!third_party/dockerfile*
 
 # [Ignore] Python-generated files
 __pycache__/

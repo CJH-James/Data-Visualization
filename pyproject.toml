@@ -7,6 +7,7 @@ requires-python = "~=3.13.0"
 dependencies = [
     "lxml>=6.0.2",
     "pandas>=2.3.3",
+    "wxpython~=4.2",
     "xlrd>=2.0.2",
 ]
 
@@ -16,3 +17,9 @@ dependencies = [
 select = ["E", "F", "I", "N"]
 # ignore un-use warning
 # ignore = ["E501"] # E501= Too long code in single line
+
+[tool.uv.sources]
+wxpython = {
+    path = "third_party/wxPython/wheels/wxpython-4.2.4-cp313-cp313-linux_x86_64.whl",
+    marker = "sys_platform == 'linux'"
+}
